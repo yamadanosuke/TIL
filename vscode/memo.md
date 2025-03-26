@@ -1,0 +1,1 @@
+vscodeのwindow開いているディレクトリ内で使用したい設定は.vscode/settings.jsonに記載することで読み込ませられる
